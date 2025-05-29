@@ -1,0 +1,31 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# OS-Dateien
+.DS_Store
+Thumbs.db
+
+# Ausgabe-Dateien
+animals.html
+
+# Logs
+*.log
+
+# IDE-Dateien
+.vscode/
+.idea/
+
+# Umgebungsvariablen-Datei
+.env
+
+# Sonstige temporäre Dateien
+*.tmp
+*.bak
